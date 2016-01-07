@@ -140,6 +140,7 @@ header a:hover {
   font-size: 16px;
 }
 
+<<<<<<< HEAD
 .avatar-left {
   width: 20%;
 }
@@ -151,4 +152,19 @@ header a:hover {
 
 .center-video img {
   width: 70%;
+=======
+.vide li {
+    list-style: circle;
+}
+.row{
+    max-width: 854 px;
+    line-height: 2;
+    margin: 0 auto;
+}.image{
+    width: 65%;
+    margin:0 auto;
+    text-align: left;
+}img {
+    width: 100%
+>>>>>>> de44007adc9c58ee1bd83e9a2c7a257fe4c3459b
 }
