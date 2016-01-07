@@ -107,3 +107,33 @@ header a:hover {
   background-color: rgba(255, 255, 255, 0.2);
 
 }
+
+.page-header{
+  background-color: #F4F5F7;
+  margin-top: 0;
+  text-align: center;
+}
+
+.citation{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.img-circle{
+  margin-top: -3.25em;
+  margin-left: -1em;
+}
+
+.quote{
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.52;
+  color: #4D4D4D;
+  margin: 0px 0px 10px;
+  padding: 1em 0px;
+}
+.author{
+  text-align: left;
+  color: #A6A6A6;
+  font-size: 16px;
+}
