@@ -137,3 +137,18 @@ header a:hover {
   color: #A6A6A6;
   font-size: 16px;
 }
+
+.vide li {
+    list-style: circle;
+}
+.row{
+    max-width: 854 px;
+    line-height: 2;
+    margin: 0 auto;
+}.image{
+    width: 65%;
+    margin:0 auto;
+    text-align: left;
+}img {
+    width: 100%
+}
