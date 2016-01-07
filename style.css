@@ -50,7 +50,7 @@ body {
   background-color: #fff;
 }
 
-.container li:last-child {
+.navbar .container li:last-child {
   background-color: #679ABA;
 }
 
@@ -115,7 +115,7 @@ header a:hover {
 }
 
 .citation{
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   position: relative;
   left: 90px;
@@ -140,7 +140,6 @@ header a:hover {
   font-size: 16px;
 }
 
-<<<<<<< HEAD
 .avatar-left {
   width: 20%;
 }
@@ -151,14 +150,15 @@ header a:hover {
 }
 
 .center-video img {
-  width: 70%;
-=======
+  width: 70%;}
+
 .vide li {
     list-style: circle;
 }
 .row{
-    max-width: 854 px;
-    line-height: 2;
+    text-align: left;
+    max-width: 854px;
+    line-height: 1.8;
     margin: 0 auto;
 }.image{
     width: 65%;
@@ -166,5 +166,13 @@ header a:hover {
     text-align: left;
 }img {
     width: 100%
->>>>>>> de44007adc9c58ee1bd83e9a2c7a257fe4c3459b
+}
+
+.col-md-4 h3 {
+  color: rgb(77,77,77);
+  font-weight: bold;
+}
+
+.avatar-left img {
+  width: auto;
 }
