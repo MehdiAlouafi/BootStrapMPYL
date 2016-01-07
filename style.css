@@ -115,8 +115,10 @@ header a:hover {
 }
 
 .citation{
-  width: 50%;
+  width: 70%;
   margin: 0 auto;
+  position: relative;
+  left: 90px;
 }
 
 .img-circle{
@@ -136,4 +138,17 @@ header a:hover {
   text-align: left;
   color: #A6A6A6;
   font-size: 16px;
+}
+
+.avatar-left {
+  width: 20%;
+}
+
+.center-video {
+  padding-top: 40px;
+  margin: 0 auto;
+}
+
+.center-video img {
+  width: 70%;
 }
