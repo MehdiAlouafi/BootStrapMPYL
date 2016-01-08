@@ -219,9 +219,12 @@ header a:hover {
  width: 300px;
  margin-left: 45px;
  font-weight: bold;
+ transition: all 0.5s ease-in-out;
 }
 .background-footer {
- background: #F4F5F7
+ background: #F4F5F7;
+ padding: 25px 0;
+ margin-top: 20px;
 ;
  text-align: center;
 }.last-section h3 {
@@ -257,4 +260,7 @@ header a:hover {
   right: 80px; top: 30px;
   color: #a6a6a6;
   padding-bottom: 20px;
+}
+.font-size .image h3,p,li {
+  font-size: 18px;
 }
