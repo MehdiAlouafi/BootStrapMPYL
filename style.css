@@ -176,3 +176,21 @@ header a:hover {
 .avatar-left img {
   width: auto;
 }
+
+.about-section h1 {
+  color: #60A8A2;
+  font-weight: bold;
+}
+
+.about-section h1, p {
+  line-height: 1.8;
+}
+
+.about-section p {
+    font-size: 18px;
+
+}
+
+.HTML {
+  color: #60A8A2;
+}
