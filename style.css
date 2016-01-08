@@ -194,3 +194,15 @@ header a:hover {
 .HTML {
   color: #60A8A2;
 }
+
+.divider {
+  width: 64%;
+  height: 1px;
+  background-color: #ccc;
+  margin: 50px auto 50px auto;
+
+}
+
+.image {
+  padding-top: 20px;
+}
